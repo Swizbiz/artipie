@@ -1,0 +1,5 @@
+repo:
+  type: docker
+  storage:
+    type: fs # type = FileStorage
+    path: /var/artipie/images # place where the data will be stored
