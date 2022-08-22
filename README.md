@@ -23,7 +23,7 @@ A software project of almost any size needs to keep its binary artifacts in a re
 
 ## Artipie
 
-Artipie is a free binary artifact management tool. Artipie is not just a binary artifact web server - it's an artifact management constructor, which comprises many components built into server assembly. It is an open-source project that started in 2020 and is actively growing for now.
+[Artipie](https://github.com/artipie/artipie) is a free binary artifact management tool. Artipie is not just a binary artifact web server - it's an artifact management constructor, which comprises many components built into server assembly. It is an open-source project that started in 2020 and is actively growing for now.
 
 All Artipie components are based on reactive, asynchronous, non-blocking, and back-pressured streams and principles, allowing Artipie to withstand heavy workloads with a small amount of kernel threads.
 
